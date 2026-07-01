@@ -2,14 +2,37 @@
   <img src="./banner.svg" alt="RuebliBuebli Animated Banner" width="100%" />
 </div>
 
-## 🥕 Welcome to my patch!
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%F0%9F%92%BB;Game+Dev+Enthusiast+%F0%9F%8E%AE;Carrot+Connoisseur+%F0%9F%A5%95;I+turn+coffee+into+code+%E2%98%95" alt="Typing SVG" /></a>
+</p>
 
-I'm **RuebliBuebli**, a developer who loves building cool stuff (and carrots, obviously). 
+<div align="center">
+  <i>"There are 10 types of people in the world: Those who understand binary, and those who don't. <br>And then there's me, just trying to center a &lt;div&gt;."</i> 🤷‍♂️
+</div>
+<br>
 
-### 📰 News / Currently working on...
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Carrot.png" alt="Carrot" width="40" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="40" />
+</div>
+<br>
+
+### 📰 The Latest Harvest...
 - 🧑‍🌾 Cultivating my [Dev-website](https://github.com/RuebliBuebli/Dev-website)
-- 🎮 Diving deep into game development with **Unity** and **Godot**
+- 🎮 Diving deep into game development with **Godot**
 - 🚀 Expanding my toolkit with **Golang** and **AI tools**
+
+### 🏆 Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RuebliBuebli&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
+---
 
 ### 👨‍💻 Tech Stack
 
@@ -27,6 +50,7 @@ I'm **RuebliBuebli**, a developer who loves building cool stuff (and carrots, ob
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 **Databases**  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -37,6 +61,7 @@ I'm **RuebliBuebli**, a developer who loves building cool stuff (and carrots, ob
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 **IDEs & Editors**  
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -56,7 +81,57 @@ I'm **RuebliBuebli**, a developer who loves building cool stuff (and carrots, ob
 ### 🌱 Currently Learning
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+### 💖 My Favourite Packages & Libraries
+
+**Web Frontend:**  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Web API & Backend:**  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scalar](https://img.shields.io/badge/Scalar-222222?style=for-the-badge)
+
+**Security & Identity:**  
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=oauth&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/OIDC-F78C40?style=for-the-badge&logo=openid&logoColor=white)
+
+**Testing & API Tools:**  
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Data & Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RuebliBuebli&show_icons=true&theme=vue-dark&bg_color=1a1a1a&title_color=f97316&icon_color=4ade80" alt="GitHub Stats" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuebliBuebli/RuebliBuebli/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuebliBuebli/RuebliBuebli/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RuebliBuebli/RuebliBuebli/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+### ⏱️ WakaTime Coding Stats
+<!-- To make this work: Create a WakaTime account, install the extension in your IDEs, make your coding activity PUBLIC in your WakaTime settings, and ensure your WakaTime username is RuebliBuebli -->
+<p align="center">
+  <a href="https://wakatime.com/@RuebliBuebli">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RuebliBuebli&layout=compact&theme=vue-dark&bg_color=1a1a1a" alt="WakaTime Stats" />
+  </a>
+</p>
+
+### 🎵 Currently Playing on Spotify
+<!-- To make this work: Go to https://spotify-github-profile.vercel.app/, log in with your Spotify account, and replace YOUR_SPOTIFY_UID below with the ID it gives you -->
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=1a1a1a&interchange=true&bar_color=f97316&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=1a1a1a&interchange=true&bar_color=f97316&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
 </p>
