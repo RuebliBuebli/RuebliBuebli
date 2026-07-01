@@ -100,33 +100,3 @@
 **Data & Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuebliBuebli&show_icons=true&theme=vue-dark&bg_color=1a1a1a&title_color=f97316&icon_color=4ade80" alt="GitHub Stats" />
-</p>
-
-### 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuebliBuebli/RuebliBuebli/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuebliBuebli/RuebliBuebli/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RuebliBuebli/RuebliBuebli/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-### ⏱️ WakaTime Coding Stats
-<!-- To make this work: Create a WakaTime account, install the extension in your IDEs, make your coding activity PUBLIC in your WakaTime settings, and ensure your WakaTime username is RuebliBuebli -->
-<p align="center">
-  <a href="https://wakatime.com/@RuebliBuebli">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RuebliBuebli&layout=compact&theme=vue-dark&bg_color=1a1a1a" alt="WakaTime Stats" />
-  </a>
-</p>
-
-### 🎵 Currently Playing on Spotify
-<!-- To make this work: Go to https://spotify-github-profile.vercel.app/, log in with your Spotify account, and replace YOUR_SPOTIFY_UID below with the ID it gives you -->
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=1a1a1a&interchange=true&bar_color=f97316&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=1a1a1a&interchange=true&bar_color=f97316&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
