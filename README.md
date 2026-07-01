@@ -25,13 +25,6 @@
 - 🎮 Diving deep into game development with **Godot**
 - 🚀 Expanding my toolkit with **Golang** and **AI tools**
 
-### 🏆 Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RuebliBuebli&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 Tech Stack
@@ -71,6 +64,8 @@
 **AI Tools**  
 ![Antigravity](https://img.shields.io/badge/Antigravity-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-4B179E?style=for-the-badge&logo=linux&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Operating Systems**  
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows-11&logoColor=white)
