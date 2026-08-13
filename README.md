@@ -21,7 +21,7 @@
 <br>
 
 ### 📰 The Latest Harvest...
-- 🧑‍🌾 Cultivating my [Dev-website](https://github.com/RuebliBuebli/Dev-website)
+- 🧑‍🌾 Cultivating my [Dev-website](https://rueblibuebli.ch)
 - 🎮 Diving deep into game development with **Godot**
 - 🚀 Expanding my toolkit with **Golang** and **AI tools**
 
